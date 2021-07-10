@@ -1,0 +1,43 @@
+ul {
+  list-style-type: none;
+}
+
+.li-items {
+  border: 3px inset rgb(99, 99, 122);
+  border-radius: 25px;
+  margin-left: 410px;
+  margin-right: 410px;
+  margin-bottom: 10px;
+  font-size: larger;
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+.Todo-input1 {
+  width: 20%;
+  padding: 10px;
+  margin-right: 5px;
+}
+
+.Todo-input2 {
+  width: 20%;
+  padding: 10px;
+}
+
+.Search-input {
+  width: 40%;
+  padding: 10px;
+}
+
+.Edit {
+  color: blueviolet;
+  font-size: x-large;
+}
+
+.jumbotron {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 70px;
+}
